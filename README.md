@@ -127,8 +127,9 @@
       </td>
 	    <td>
         1. SQL문 작성<br/>
-        2. DB 구축<br/>
-        3. PPT 작성
+        2. DB생성 및 구축<br/>
+	3. 커피 DAO, 주문 DAO 작성<br/>	    
+        4. PPT 작성
       </td>
       <td>
        1. 카페 Service 및 MainView 작성<br/>
