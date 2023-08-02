@@ -110,12 +110,12 @@
 
 ## 👨‍👧‍👦 팀원소개
 <table border="1">
-	<th>곽승규(팀장)</th>
+	<th>곽승규</th>
 	<th>김태선</th>
   <th>윤소민</th>
 	<tr>
-	    <td><img src="https://avatars.githubusercontent.com/u/62579544?v=4" width="250"/></td>
-	    <td><img src="https://avatars.githubusercontent.com/u/127369505?v=4" width="200"/></td>
+	    <td><img src="https://avatars.githubusercontent.com/u/62579544?v=4" width="200"/></td>
+	    <td><img src="https://avatars.githubusercontent.com/u/127369505?v=4" width="250"/></td>
       <td><img src="https://avatars.githubusercontent.com/u/55522263?v=4" width="200"/></td>  
 	</tr>
 	<tr>
