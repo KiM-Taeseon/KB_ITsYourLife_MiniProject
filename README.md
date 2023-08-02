@@ -120,10 +120,10 @@
 	</tr>
 	<tr>
 	    <td>
-        1. 프로젝트 MVC 내부 구성 및 Package 구조화 <br/>
+        1. 프로젝트 MVC 내부 구성 및 <br/> Package 구조화 <br/>
     	2. 사용자정의 예외 처리 <br/>
-        3. 커피 DTO, 주문 DTO, 커피 DAO, 주문 DAO, 카페 Service, Controller 작성 <br/>
-        4. 프로젝트 발표
+        3. 커피 DTO, 주문 DTO, 커피 DAO,<br/> 주문 DAO, 카페 Service, Controller <br/> 작성 <br/>
+	4. 프로젝트 발표
       </td>
 	    <td>
         1. SQL문 작성<br/>
