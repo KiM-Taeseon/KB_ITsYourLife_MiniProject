@@ -115,7 +115,7 @@
   <th>윤소민</th>
 	<tr>
 	    <td><img src="https://avatars.githubusercontent.com/u/62579544?v=4" width="200"/></td>
-	    <td><img src="https://avatars.githubusercontent.com/u/127369505?v=4" width="250"/></td>
+	    <td><img src="https://avatars.githubusercontent.com/u/127369505?v=4" width="200"/></td>
       <td><img src="https://avatars.githubusercontent.com/u/55522263?v=4" width="200"/></td>  
 	</tr>
 	<tr>
